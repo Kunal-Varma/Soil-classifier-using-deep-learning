@@ -1,9 +1,5 @@
 # Soil-Type-Classification for Crops Suggestion 🌳🌲🎄🎋🌴
 
-
-
-# Code Notebook at Kaggle: 📝📒📔📑🧾💻  <br>
-https://www.kaggle.com/omkargurav/soil-type-classification-soilnet
 <br>
 
 # Dataset available at: 📚📓🗞💾 <br>
