@@ -11,24 +11,24 @@ from Google Search Engine  and crafted and filtered.
 
 Based on the type of the Soil Crops will be suggested. Model is deployed on ![Heroku Platform](https://www.heroku.com/).
 
-Steps 
- Step 1 Clone the repo and generate the.h5 file
+# Steps 
+ ## Step 1 Clone the repo and generate the.h5 file
  
- Step 2 On anaconda prompt create a new environment
+ ## Step 2 On anaconda prompt create a new environment
  ```bash
  conda create -n soil python==3.6.9
  ```
  
- Step 3 Once new environment is created , activate it
+ ## Step 3 Once new environment is created , activate it
  ```bash
  conda activate soil
  ```
-Step 4 In the new environment install all the dependencies
+## Step 4 In the new environment install all the dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-Step 5 run the app.py file
+## Step 5 run the app.py file
 ```bash
 python app.py
 ```
